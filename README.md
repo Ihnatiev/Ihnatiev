@@ -10,6 +10,3 @@ Here's a quick summary of my GitHub stats:
 - Node.js, NestJS
 - Puppeteer
 - Docker
-
-## 📈 My GitHub Activity
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ihnatiev&theme=radical)
