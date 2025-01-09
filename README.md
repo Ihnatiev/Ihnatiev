@@ -8,8 +8,8 @@ Here's a quick summary of my GitHub stats:
 ## 🔧 Technologies & Tools
 - JavaScript, TypeScript, Angular
 - Node.js, NestJS
-- Puppeteer, Playwright
-- Docker, Kubernetes
+- Puppeteer
+- Docker
 
 ## 📈 My GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ihnatiev&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ihnatiev&theme=radical)
